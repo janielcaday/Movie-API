@@ -1,4 +1,4 @@
-# Movie-API – back end
+# Movie-API – full stack
 
 
 ## Project Introduction
