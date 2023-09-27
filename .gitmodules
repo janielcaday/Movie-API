@@ -1,0 +1,6 @@
+[submodule "Movie-API-BackEnd"]
+	path = Movie-API-BackEnd
+	url = https://github.com/janielcaday/Movie-API-BackEnd.git
+[submodule "Movie-API-FrontEnd"]
+	path = Movie-API-FrontEnd
+	url = https://github.com/janielcaday/Movie-API-FrontEnd.git
