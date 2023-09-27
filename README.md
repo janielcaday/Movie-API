@@ -12,3 +12,5 @@ Frontend : React
 Database : MongoDB
 <br>
 API      : TMDB
+<br>
+Testing  : Postman
