@@ -5,12 +5,11 @@
 This is the front-end for a Movie API application. It allows users to choose from a set of a total of 10 movies, view official images from said movies, watch the trailers, and submit reviews about the movie. Submitted reviews are saved to a remote MongoDB database.
 
 ## Technology
-Backend  : Java Spring Boot
-<br>
-Frontend : React
-<br>
-Database : MongoDB
-<br>
-API      : TMDB
-<br>
-Testing  : Postman
+
+| Category | Type |
+|---|---|
+| Frontend | React |
+| Backend | Java Spring Boot |
+| Database | MongoDB |
+| API | TMDB |
+| Testing | Postman |
